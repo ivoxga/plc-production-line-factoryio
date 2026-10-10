@@ -53,9 +53,9 @@ During a preliminary study, the scale readings below were measured for each part
 
 ```
 .
-├── [Communication library]     # PLC <-> Factory IO data exchange
-├── [Sysmac Studio project]     # PLC program and HMI
-├── [Factory IO scene]          # plant simulation
+├── Communication library     # PLC <-> Factory IO data exchange
+├── Sysmac Studio project     # PLC program and HMI
+├── Factory IO scene]          # plant simulation
 └── README.md
 ```
 
