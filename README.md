@@ -4,6 +4,8 @@ A simulated industrial production line controlled by an **Omron PLC** and an **H
 
 Three parallel lines process parts of different colours. Each line paints and dries the part, weighs it to judge quality, and then sends it to the right destination: the finished order, a CNC machine for repair, the scrap bin or the stock area. An operator defines each order from the HMI, follows production in real time, and can switch between production and maintenance modes.
 
+> Project developed for the course **Automation**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2st year**.
+
 ---
 
 ## How it works
