@@ -7,7 +7,7 @@ Three parallel lines process parts of different colours. Each line paints and dr
 > Project developed for the course **Automation**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2st year**.
 
 ---
-
+ 
 ## How it works
 
 ```mermaid
