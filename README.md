@@ -9,7 +9,7 @@ Three parallel lines process parts of different colours. Each line paints and dr
 ---
  
 ## How it works
-
+ 
 ```mermaid 
 flowchart TD
     A["Emitter releases a part"] --> B["Main conveyor: vision sensor reads the colour"]
